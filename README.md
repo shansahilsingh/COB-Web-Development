@@ -13,4 +13,9 @@ Desgin by @ Sahil Singh Shan
 Unit Converter(Must contain 4 different units) 
 https://github.com/shansahilsingh/COB-Web-Development/tree/main/COB-unit-converter/COB-unit-converter
 Desgin by @ Sahil Singh Shan
+# Task-2
+Website landing page(responsive)
+https://github.com/shansahilsingh/COB-Web-Development/tree/main/COB-Website%20landing%20page(responsive)
+Desgin by @ Sahil Singh Shan
+
 
